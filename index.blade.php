@@ -12,6 +12,9 @@
     <h4>from dev branch</h4>
     <h4>from dev main</h4>
     <h4>from dev dev</h4>
+    <h4>from dev file without pull from main</h4>
+=======
     <h4>from dev main</h4>
+>>>>>>> f712a8b3238e4c27f5607cc666ef972775274693
 </body>
 </html>
